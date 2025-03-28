@@ -1,0 +1,37 @@
+/* Style for the heading */
+.heading {
+    color: #007bff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Style for the paragraph with an ID */
+#intro {
+    font-size: 18px;
+    color: #333;
+    margin: 10px 20px;
+    padding: 10px;
+}
+
+/* Style for the image */
+.styled-image {
+    width: 300px;
+    border: 2px solid #000;
+    margin: 20px auto;
+    display: block;
+}
+
+/* Style for a container */
+.container {
+    background-color: #f4f4f4;
+    padding: 15px;
+    border: 1px solid #ccc;
+    margin: 20px;
+}
+
+/* Style for a highlight */
+.highlight {
+    background-color: #4e5da3;
+    padding: 5px;
+    border-radius: 5px;
+}
